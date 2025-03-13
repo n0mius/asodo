@@ -5,7 +5,7 @@ asodo is an audio downloader that simplifies fetching and converting YouTube aud
 I wanted a quick way to download songs with `yt-dlp` using just a keybind. Now, I can simply copy the URL of the song I'm listening to, press a keybind, and the download starts automatically.
 
 ## How It Works
-1. Copies the YouTube URL from your clipboard.  
+1. Copies the URL from your clipboard.  
 2. Retrieves the video title using `yt-dlp`.  
 3. Notifies you before and after downloading.  
 4. Downloads and converts the audio to your specified format in the target directory.  
